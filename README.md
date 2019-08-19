@@ -24,15 +24,15 @@ In this challenge, create a web API around the following resources: `Projects` a
 
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
-- [ ] Mention two parts of Express that you learned about this week.
+- [ ] Mention two parts of Express that you learned about this week. YOu can create an error code to catch everything, and you can add as many middle wares to each api call.
 
-- [ ] Describe Middleware?
+- [ ] Describe Middleware? Express is the bareones of a server. middle ware can be used like a utility for conduite for basicall any function that you need.
 
-- [ ] Describe a Resource?
+- [ ] Describe a Resource? any data useds for example "db"
 
-- [ ] What can the API return to help clients know if a request was successful?
+- [ ] What can the API return to help clients know if a request was successful? We can send res codes.
 
-- [ ] How can we partition our application into sub-applications?
+- [ ] How can we partition our application into sub-applications? usings routes
 
 ## Project Setup
 
